@@ -3,6 +3,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green) 
 
 # 🧾 API de Pedidos
+<img width="1598" height="633" alt="swagger" src="https://github.com/user-attachments/assets/ccc0c781-6041-41da-88fb-e5378346ac42" />
+
 
 API REST desenvolvida com **Node.js** e **Express** para gerenciamento de pedidos.  
 Este projeto foi criado com fins de estudo e demonstra conceitos básicos de construção de APIs.
