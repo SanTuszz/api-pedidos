@@ -75,6 +75,7 @@ node index.js
 O servidor será iniciado em:
 
 ```
+http://localhost:3000/api-docs/
 http://localhost:3000
 ```
 
