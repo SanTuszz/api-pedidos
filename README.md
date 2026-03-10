@@ -1,6 +1,7 @@
-![Node](https://img.shields.io/badge/Node.js-18-green)
-![Express](https://img.shields.io/badge/Express-4.x-blue)
-![License](https://img.shields.io/badge/license-MIT-green) 
+![Node.js](https://img.shields.io/badge/Node.js-18-green)
+![Express](https://img.shields.io/badge/Express-Framework-black)
+![Swagger](https://img.shields.io/badge/Swagger-API%20Docs-brightgreen)
+![Status](https://img.shields.io/badge/status-concluído-success)
 
 # 🧾 API de Pedidos
 <img width="1598" height="633" alt="swagger" src="https://github.com/user-attachments/assets/ccc0c781-6041-41da-88fb-e5378346ac42" />
