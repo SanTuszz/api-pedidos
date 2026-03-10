@@ -1,3 +1,7 @@
+![Node](https://img.shields.io/badge/Node.js-18-green)
+![Express](https://img.shields.io/badge/Express-4.x-blue)
+![License](https://img.shields.io/badge/license-MIT-green) 
+
 # 🧾 API de Pedidos
 
 API REST desenvolvida com **Node.js** e **Express** para gerenciamento de pedidos.  
